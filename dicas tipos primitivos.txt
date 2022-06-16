@@ -1,0 +1,24 @@
+tipos primitivos em java
+
+ 3 formas de declaração:
+
+int idade = 3;
+float salario = 1825.54f;
+char letra = 'G';
+boolean casado = false
+
+             ou
+
+int idade = (int) 3;
+float salario = (float) 1825.54;
+char letra = (char) 'G';
+boolean casado = (boolean) false;
+
+              ou
+
+Integer idade = new Integer (3);
+Float salario = new Float(1825.54);
+character letra = new Character('G');
+boolean casado = new Boolean(false);
+
+
